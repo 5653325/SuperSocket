@@ -8,4 +8,7 @@ _ReSharper.*
 *.log
 .vs
 .DS_Store
-.nupkg
+*.nupkg
+*.snupkg
+test/SuperSocket.Benchmarks/BenchmarkDotNet.Artifacts
+e2e
